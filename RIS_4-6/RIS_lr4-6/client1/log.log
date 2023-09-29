@@ -1,0 +1,390 @@
+[2023-05-02T11:49:38.798] [DEBUG] default - create entity
+[2023-05-02T11:49:38.802] [DEBUG] default - create entity
+[2023-05-02T11:49:38.802] [DEBUG] default - create entity
+[2023-05-02T11:49:38.803] [DEBUG] default - create entity
+[2023-05-02T11:49:38.803] [DEBUG] default - create entity
+[2023-05-02T11:49:38.803] [DEBUG] default - create entity
+[2023-05-02T11:49:38.804] [DEBUG] default - create entity
+[2023-05-02T11:49:38.804] [DEBUG] default - create entity
+[2023-05-02T11:49:38.804] [DEBUG] default - create entity
+[2023-05-02T11:49:38.805] [DEBUG] default - create entity
+[2023-05-02T11:49:41.859] [DEBUG] default - Add
+[2023-05-02T11:49:51.846] [DEBUG] default - Add
+[2023-05-02T11:49:58.801] [DEBUG] default - truncate db
+[2023-05-02T11:50:01.845] [DEBUG] default - Add
+[2023-05-02T11:50:11.845] [DEBUG] default - Add
+[2023-05-02T11:50:18.808] [DEBUG] default - truncate db
+[2023-05-02T11:50:21.843] [DEBUG] default - Add
+[2023-05-02T11:50:31.853] [DEBUG] default - Add
+[2023-05-02T11:50:38.819] [DEBUG] default - truncate db
+[2023-05-02T11:50:41.871] [DEBUG] default - Add
+[2023-05-02T11:50:51.880] [DEBUG] default - Add
+[2023-05-02T11:50:58.819] [DEBUG] default - truncate db
+[2023-05-02T11:51:01.883] [DEBUG] default - Add
+[2023-05-02T11:51:11.888] [DEBUG] default - Add
+[2023-05-02T11:51:18.839] [DEBUG] default - truncate db
+[2023-05-02T11:51:21.895] [DEBUG] default - Add
+[2023-05-02T11:51:31.900] [DEBUG] default - Add
+[2023-05-02T11:51:38.843] [DEBUG] default - truncate db
+[2023-05-02T11:51:41.915] [DEBUG] default - Add
+[2023-05-02T11:51:51.920] [DEBUG] default - Add
+[2023-05-22T09:46:58.919] [DEBUG] default - create entity
+[2023-05-22T09:46:58.935] [DEBUG] default - create entity
+[2023-05-22T09:46:58.937] [DEBUG] default - create entity
+[2023-05-22T09:46:58.938] [DEBUG] default - create entity
+[2023-05-22T09:46:58.940] [DEBUG] default - create entity
+[2023-05-22T09:46:58.941] [DEBUG] default - create entity
+[2023-05-22T09:46:58.943] [DEBUG] default - create entity
+[2023-05-22T09:46:58.944] [DEBUG] default - create entity
+[2023-05-22T09:46:58.946] [DEBUG] default - create entity
+[2023-05-22T09:46:58.947] [DEBUG] default - create entity
+[2023-05-22T09:47:18.918] [DEBUG] default - truncate db
+[2023-05-22T09:47:38.926] [DEBUG] default - truncate db
+[2023-05-22T09:47:58.942] [DEBUG] default - truncate db
+[2023-05-22T09:48:18.951] [DEBUG] default - truncate db
+[2023-05-22T09:48:38.957] [DEBUG] default - truncate db
+[2023-05-22T09:48:47.818] [DEBUG] default - Add
+[2023-05-22T09:48:57.227] [DEBUG] default - restore from central data base
+[2023-05-22T09:48:58.968] [DEBUG] default - create entity
+[2023-05-22T09:48:58.969] [DEBUG] default - create entity
+[2023-05-22T09:48:58.969] [DEBUG] default - create entity
+[2023-05-22T09:48:58.969] [DEBUG] default - create entity
+[2023-05-22T09:48:58.969] [DEBUG] default - create entity
+[2023-05-22T09:48:58.971] [DEBUG] default - create entity
+[2023-05-22T09:48:58.972] [DEBUG] default - create entity
+[2023-05-22T09:48:58.972] [DEBUG] default - create entity
+[2023-05-22T09:48:58.973] [DEBUG] default - create entity
+[2023-05-22T09:48:58.973] [DEBUG] default - create entity
+[2023-05-22T09:49:18.975] [DEBUG] default - truncate db
+[2023-05-22T09:49:38.986] [DEBUG] default - truncate db
+[2023-05-22T09:49:58.994] [DEBUG] default - truncate db
+[2023-05-22T09:50:18.999] [DEBUG] default - truncate db
+[2023-05-22T09:50:39.007] [DEBUG] default - truncate db
+[2023-05-22T09:50:59.019] [DEBUG] default - truncate db
+[2023-05-22T09:51:40.173] [DEBUG] default - create entity
+[2023-05-22T09:51:40.187] [DEBUG] default - create entity
+[2023-05-22T09:51:40.188] [DEBUG] default - create entity
+[2023-05-22T09:51:40.189] [DEBUG] default - create entity
+[2023-05-22T09:51:40.191] [DEBUG] default - create entity
+[2023-05-22T09:51:40.193] [DEBUG] default - create entity
+[2023-05-22T09:51:40.196] [DEBUG] default - create entity
+[2023-05-22T09:51:40.197] [DEBUG] default - create entity
+[2023-05-22T09:51:40.199] [DEBUG] default - create entity
+[2023-05-22T09:51:40.200] [DEBUG] default - create entity
+[2023-05-22T09:52:00.160] [DEBUG] default - truncate db
+[2023-05-22T09:52:20.170] [DEBUG] default - truncate db
+[2023-05-22T09:52:40.183] [DEBUG] default - truncate db
+[2023-05-22T09:53:00.186] [DEBUG] default - truncate db
+[2023-05-22T09:53:20.194] [DEBUG] default - truncate db
+[2023-05-22T09:53:40.198] [DEBUG] default - truncate db
+[2023-05-22T09:54:00.201] [DEBUG] default - truncate db
+[2023-05-22T09:54:20.216] [DEBUG] default - truncate db
+[2023-05-22T09:54:40.222] [DEBUG] default - truncate db
+[2023-05-22T09:55:00.228] [DEBUG] default - truncate db
+[2023-05-22T09:55:20.237] [DEBUG] default - truncate db
+[2023-05-22T09:55:40.247] [DEBUG] default - truncate db
+[2023-05-22T09:56:00.257] [DEBUG] default - truncate db
+[2023-05-22T09:56:20.261] [DEBUG] default - truncate db
+[2023-05-22T09:56:40.271] [DEBUG] default - truncate db
+[2023-05-22T09:57:00.287] [DEBUG] default - truncate db
+[2023-05-22T09:57:20.298] [DEBUG] default - truncate db
+[2023-05-22T09:57:40.301] [DEBUG] default - truncate db
+[2023-05-22T09:58:00.315] [DEBUG] default - truncate db
+[2023-05-22T09:58:20.328] [DEBUG] default - truncate db
+[2023-05-22T09:58:40.332] [DEBUG] default - truncate db
+[2023-05-22T09:59:00.341] [DEBUG] default - truncate db
+[2023-05-22T09:59:20.343] [DEBUG] default - truncate db
+[2023-05-22T09:59:40.348] [DEBUG] default - truncate db
+[2023-05-22T10:00:00.350] [DEBUG] default - truncate db
+[2023-05-22T10:00:20.366] [DEBUG] default - truncate db
+[2023-05-22T10:00:23.113] [DEBUG] default - Add
+[2023-05-22T10:00:40.374] [DEBUG] default - truncate db
+[2023-05-22T10:01:00.379] [DEBUG] default - truncate db
+[2023-05-22T10:01:20.397] [DEBUG] default - truncate db
+[2023-05-22T10:01:40.397] [DEBUG] default - truncate db
+[2023-05-22T10:02:00.403] [DEBUG] default - truncate db
+[2023-05-22T10:02:20.416] [DEBUG] default - truncate db
+[2023-05-22T10:02:40.428] [DEBUG] default - truncate db
+[2023-05-22T10:03:00.440] [DEBUG] default - truncate db
+[2023-05-22T10:03:20.448] [DEBUG] default - truncate db
+[2023-05-22T10:03:40.450] [DEBUG] default - truncate db
+[2023-05-22T10:04:00.455] [DEBUG] default - truncate db
+[2023-05-22T10:04:20.458] [DEBUG] default - truncate db
+[2023-05-22T10:04:40.464] [DEBUG] default - truncate db
+[2023-05-22T10:05:00.471] [DEBUG] default - truncate db
+[2023-05-22T10:05:20.481] [DEBUG] default - truncate db
+[2023-05-22T10:05:40.487] [DEBUG] default - truncate db
+[2023-05-22T10:06:00.502] [DEBUG] default - truncate db
+[2023-05-22T10:06:20.512] [DEBUG] default - truncate db
+[2023-05-22T10:06:27.164] [DEBUG] default - Add
+[2023-05-22T10:06:40.513] [DEBUG] default - truncate db
+[2023-05-22T10:06:44.939] [DEBUG] default - restore from central data base
+[2023-05-22T10:06:55.930] [DEBUG] default - Add
+[2023-05-22T10:06:59.820] [DEBUG] default - Add
+[2023-05-22T10:07:00.515] [DEBUG] default - create entity
+[2023-05-22T10:07:00.515] [DEBUG] default - create entity
+[2023-05-22T10:07:00.516] [DEBUG] default - create entity
+[2023-05-22T10:07:00.516] [DEBUG] default - create entity
+[2023-05-22T10:07:00.516] [DEBUG] default - create entity
+[2023-05-22T10:07:00.516] [DEBUG] default - create entity
+[2023-05-22T10:07:00.517] [DEBUG] default - create entity
+[2023-05-22T10:07:00.517] [DEBUG] default - create entity
+[2023-05-22T10:07:00.517] [DEBUG] default - create entity
+[2023-05-22T10:07:00.518] [DEBUG] default - create entity
+[2023-05-22T10:07:20.528] [DEBUG] default - truncate db
+[2023-05-22T10:07:40.539] [DEBUG] default - truncate db
+[2023-05-22T10:08:00.555] [DEBUG] default - truncate db
+[2023-05-22T10:08:11.039] [DEBUG] default - Add
+[2023-05-22T10:08:17.572] [DEBUG] default - Add
+[2023-05-22T10:08:20.551] [DEBUG] default - truncate db
+[2023-05-22T10:08:27.519] [DEBUG] default - Add
+[2023-05-22T10:08:33.314] [DEBUG] default - restore from central data base
+[2023-05-22T10:08:33.351] [DEBUG] default - restore {"id":1,"data":"2023-05-22T09:05:08.256Z","clNum":2}
+[2023-05-22T10:08:33.368] [DEBUG] default - restore {"id":2,"data":"2023-05-22T09:05:08.264Z","clNum":2}
+[2023-05-22T10:08:33.381] [DEBUG] default - restore {"id":3,"data":"2023-05-22T09:05:08.266Z","clNum":2}
+[2023-05-22T10:08:33.390] [DEBUG] default - restore {"id":4,"data":"2023-05-22T09:05:08.268Z","clNum":2}
+[2023-05-22T10:08:33.399] [DEBUG] default - restore {"id":5,"data":"2023-05-22T09:05:08.270Z","clNum":2}
+[2023-05-22T10:08:37.561] [DEBUG] default - Add
+[2023-05-22T10:08:37.596] [DEBUG] default - Add
+[2023-05-22T10:08:40.567] [DEBUG] default - create entity
+[2023-05-22T10:08:40.568] [DEBUG] default - create entity
+[2023-05-22T10:08:40.568] [DEBUG] default - create entity
+[2023-05-22T10:08:40.569] [DEBUG] default - create entity
+[2023-05-22T10:08:40.569] [DEBUG] default - create entity
+[2023-05-22T10:08:47.548] [DEBUG] default - Add
+[2023-05-22T10:08:57.602] [DEBUG] default - Add
+[2023-05-22T10:08:57.834] [DEBUG] default - restore from central data base
+[2023-05-22T10:08:57.860] [DEBUG] default - restore {"id":1,"data":"2023-05-22T09:05:08.256Z","clNum":2}
+[2023-05-22T10:08:57.868] [DEBUG] default - restore {"id":2,"data":"2023-05-22T09:05:08.264Z","clNum":2}
+[2023-05-22T10:08:57.877] [DEBUG] default - restore {"id":2,"data":"2023-05-22T09:05:08.264Z","clNum":2}
+[2023-05-22T10:09:32.745] [DEBUG] default - Add
+[2023-05-22T10:09:34.775] [DEBUG] default - Add
+[2023-05-22T10:09:37.637] [DEBUG] default - Add
+[2023-05-22T10:09:47.680] [DEBUG] default - Add
+[2023-05-22T10:09:51.615] [DEBUG] default - create entity
+[2023-05-22T10:09:51.619] [DEBUG] default - create entity
+[2023-05-22T10:09:51.620] [DEBUG] default - create entity
+[2023-05-22T10:09:51.621] [DEBUG] default - create entity
+[2023-05-22T10:09:51.621] [DEBUG] default - create entity
+[2023-05-22T10:09:51.623] [DEBUG] default - create entity
+[2023-05-22T10:09:51.624] [DEBUG] default - create entity
+[2023-05-22T10:09:51.624] [DEBUG] default - create entity
+[2023-05-22T10:09:51.626] [DEBUG] default - create entity
+[2023-05-22T10:09:51.628] [DEBUG] default - create entity
+[2023-05-22T10:09:57.626] [DEBUG] default - Add
+[2023-05-22T10:10:07.613] [DEBUG] default - Add
+[2023-05-22T10:10:11.621] [DEBUG] default - truncate db
+[2023-05-22T10:10:17.608] [DEBUG] default - Add
+[2023-05-22T10:10:28.074] [DEBUG] default - Add
+[2023-05-22T10:10:31.624] [DEBUG] default - truncate db
+[2023-05-22T10:10:37.636] [DEBUG] default - Add
+[2023-05-22T10:10:39.525] [DEBUG] default - Add
+[2023-05-22T10:10:47.726] [DEBUG] default - Add
+[2023-05-22T10:10:51.632] [DEBUG] default - truncate db
+[2023-05-22T10:10:57.676] [DEBUG] default - Add
+[2023-05-22T10:11:07.686] [DEBUG] default - Add
+[2023-05-22T10:11:11.647] [DEBUG] default - truncate db
+[2023-05-22T10:11:17.655] [DEBUG] default - Add
+[2023-05-22T10:11:27.657] [DEBUG] default - Add
+[2023-05-22T10:11:31.656] [DEBUG] default - truncate db
+[2023-05-22T10:11:37.662] [DEBUG] default - Add
+[2023-05-22T10:11:47.737] [DEBUG] default - Add
+[2023-05-22T10:11:51.672] [DEBUG] default - truncate db
+[2023-05-22T10:11:57.723] [DEBUG] default - Add
+[2023-05-22T10:12:07.688] [DEBUG] default - Add
+[2023-05-22T10:12:11.674] [DEBUG] default - truncate db
+[2023-05-22T10:12:31.683] [DEBUG] default - truncate db
+[2023-05-22T10:12:51.701] [DEBUG] default - truncate db
+[2023-05-22T10:13:11.706] [DEBUG] default - truncate db
+[2023-05-22T10:13:31.707] [DEBUG] default - truncate db
+[2023-05-22T10:13:51.713] [DEBUG] default - truncate db
+[2023-05-22T10:14:11.718] [DEBUG] default - truncate db
+[2023-05-22T10:14:31.725] [DEBUG] default - truncate db
+[2023-05-22T10:14:47.166] [DEBUG] default - Add
+[2023-05-22T10:14:51.732] [DEBUG] default - truncate db
+[2023-05-22T10:14:53.301] [DEBUG] default - Add
+[2023-05-22T10:15:03.020] [DEBUG] default - Add
+[2023-05-22T10:15:11.748] [DEBUG] default - truncate db
+[2023-05-22T10:15:13.029] [DEBUG] default - Add
+[2023-05-22T10:15:22.747] [DEBUG] default - restore from central data base
+[2023-05-22T10:15:23.326] [DEBUG] default - restore {"id":2,"data":"2023-05-22T09:05:08.264Z","clNum":2}
+[2023-05-22T10:15:23.341] [DEBUG] default - Add
+[2023-05-22T10:15:23.357] [DEBUG] default - restore {"id":3,"data":"2023-05-22T09:05:08.266Z","clNum":2}
+[2023-05-22T10:15:23.391] [DEBUG] default - restore {"id":4,"data":"2023-05-22T09:05:08.268Z","clNum":2}
+[2023-05-22T10:15:23.424] [DEBUG] default - restore {"id":5,"data":"2023-05-22T09:05:08.270Z","clNum":2}
+[2023-05-22T10:15:23.469] [DEBUG] default - restore from central data base
+[2023-05-22T10:15:23.706] [DEBUG] default - restore {"id":2,"data":"2023-05-22T09:05:08.264Z","clNum":2}
+[2023-05-22T10:15:23.717] [DEBUG] default - restore {"id":3,"data":"2023-05-22T09:05:08.266Z","clNum":2}
+[2023-05-22T10:15:23.727] [DEBUG] default - restore {"id":4,"data":"2023-05-22T09:05:08.268Z","clNum":2}
+[2023-05-22T10:15:23.736] [DEBUG] default - restore {"id":5,"data":"2023-05-22T09:05:08.270Z","clNum":2}
+[2023-05-22T10:15:31.744] [DEBUG] default - create entity
+[2023-05-22T10:15:31.745] [DEBUG] default - create entity
+[2023-05-22T10:15:31.745] [DEBUG] default - create entity
+[2023-05-22T10:15:31.745] [DEBUG] default - create entity
+[2023-05-22T10:15:31.745] [DEBUG] default - create entity
+[2023-05-22T10:15:31.746] [DEBUG] default - create entity
+[2023-05-22T10:15:33.033] [DEBUG] default - Add
+[2023-05-22T10:15:43.058] [DEBUG] default - Add
+[2023-05-22T10:15:51.763] [DEBUG] default - create entity
+[2023-05-22T10:15:53.096] [DEBUG] default - Add
+[2023-05-22T10:16:03.070] [DEBUG] default - Add
+[2023-05-22T10:16:11.773] [DEBUG] default - create entity
+[2023-05-22T10:16:13.091] [DEBUG] default - Add
+[2023-05-22T10:16:23.097] [DEBUG] default - Add
+[2023-05-22T10:16:31.777] [DEBUG] default - create entity
+[2023-05-22T10:16:33.091] [DEBUG] default - Add
+[2023-05-22T10:16:43.146] [DEBUG] default - Add
+[2023-05-22T10:16:51.787] [DEBUG] default - create entity
+[2023-05-22T10:16:53.128] [DEBUG] default - Add
+[2023-05-22T10:17:03.132] [DEBUG] default - Add
+[2023-05-22T10:17:11.787] [DEBUG] default - create entity
+[2023-05-22T10:17:13.137] [DEBUG] default - Add
+[2023-05-22T10:17:23.151] [DEBUG] default - Add
+[2023-05-22T10:17:31.798] [DEBUG] default - create entity
+[2023-05-22T10:17:33.140] [DEBUG] default - Add
+[2023-05-22T10:17:43.155] [DEBUG] default - Add
+[2023-05-22T10:17:51.817] [DEBUG] default - create entity
+[2023-05-22T10:17:53.170] [DEBUG] default - Add
+[2023-05-22T10:18:03.311] [DEBUG] default - Add
+[2023-05-22T10:18:11.827] [DEBUG] default - create entity
+[2023-05-22T10:18:13.193] [DEBUG] default - Add
+[2023-05-22T10:18:23.171] [DEBUG] default - Add
+[2023-05-22T10:18:31.837] [DEBUG] default - create entity
+[2023-05-22T10:18:33.174] [DEBUG] default - Add
+[2023-05-22T10:19:08.011] [DEBUG] default - create entity
+[2023-05-22T10:19:08.018] [DEBUG] default - create entity
+[2023-05-22T10:19:08.019] [DEBUG] default - create entity
+[2023-05-22T10:19:08.020] [DEBUG] default - create entity
+[2023-05-22T10:19:08.020] [DEBUG] default - create entity
+[2023-05-22T10:19:08.021] [DEBUG] default - create entity
+[2023-05-22T10:19:08.022] [DEBUG] default - create entity
+[2023-05-22T10:19:08.023] [DEBUG] default - create entity
+[2023-05-22T10:19:08.025] [DEBUG] default - create entity
+[2023-05-22T10:19:08.026] [DEBUG] default - create entity
+[2023-05-22T10:19:08.499] [DEBUG] default - Add
+[2023-05-22T10:19:08.513] [DEBUG] default - not found
+[2023-05-22T10:19:28.015] [DEBUG] default - truncate db
+[2023-05-22T10:19:48.016] [DEBUG] default - truncate db
+[2023-05-22T10:20:08.214] [DEBUG] default - Add
+[2023-05-22T10:20:08.245] [DEBUG] default - not found
+[2023-05-22T10:20:20.643] [DEBUG] default - create entity
+[2023-05-22T10:20:20.653] [DEBUG] default - create entity
+[2023-05-22T10:20:20.655] [DEBUG] default - create entity
+[2023-05-22T10:20:20.656] [DEBUG] default - create entity
+[2023-05-22T10:20:20.657] [DEBUG] default - create entity
+[2023-05-22T10:20:20.658] [DEBUG] default - create entity
+[2023-05-22T10:20:20.660] [DEBUG] default - create entity
+[2023-05-22T10:20:20.662] [DEBUG] default - create entity
+[2023-05-22T10:20:20.664] [DEBUG] default - create entity
+[2023-05-22T10:20:20.666] [DEBUG] default - create entity
+[2023-05-22T10:20:40.648] [DEBUG] default - truncate db
+[2023-05-22T10:21:05.312] [DEBUG] default - Add
+[2023-05-22T10:21:05.333] [DEBUG] default - not found
+[2023-05-22T10:21:18.396] [DEBUG] default - create entity
+[2023-05-22T10:21:18.406] [DEBUG] default - create entity
+[2023-05-22T10:21:18.410] [DEBUG] default - create entity
+[2023-05-22T10:21:18.412] [DEBUG] default - create entity
+[2023-05-22T10:21:18.415] [DEBUG] default - create entity
+[2023-05-22T10:21:18.417] [DEBUG] default - create entity
+[2023-05-22T10:21:18.420] [DEBUG] default - create entity
+[2023-05-22T10:21:18.422] [DEBUG] default - create entity
+[2023-05-22T10:21:18.425] [DEBUG] default - create entity
+[2023-05-22T10:21:18.426] [DEBUG] default - create entity
+[2023-05-22T10:21:38.387] [DEBUG] default - truncate db
+[2023-05-22T10:21:53.501] [DEBUG] default - Add
+[2023-05-22T10:21:53.522] [DEBUG] default - not found
+[2023-05-22T10:22:09.616] [DEBUG] default - create entity
+[2023-05-22T10:22:09.629] [DEBUG] default - create entity
+[2023-05-22T10:22:09.633] [DEBUG] default - create entity
+[2023-05-22T10:22:09.634] [DEBUG] default - create entity
+[2023-05-22T10:22:09.636] [DEBUG] default - create entity
+[2023-05-22T10:22:09.638] [DEBUG] default - create entity
+[2023-05-22T10:22:09.642] [DEBUG] default - create entity
+[2023-05-22T10:22:09.644] [DEBUG] default - create entity
+[2023-05-22T10:22:09.647] [DEBUG] default - create entity
+[2023-05-22T10:22:09.649] [DEBUG] default - create entity
+[2023-05-22T10:22:24.506] [DEBUG] default - Add
+[2023-05-22T10:22:24.594] [DEBUG] default - Add
+[2023-05-22T10:22:29.618] [DEBUG] default - truncate db
+[2023-05-22T10:22:49.623] [DEBUG] default - truncate db
+[2023-05-22T10:22:59.133] [DEBUG] default - not found
+[2023-05-22T10:23:13.995] [DEBUG] default - create entity
+[2023-05-22T10:23:14.009] [DEBUG] default - create entity
+[2023-05-22T10:23:14.012] [DEBUG] default - create entity
+[2023-05-22T10:23:14.015] [DEBUG] default - create entity
+[2023-05-22T10:23:14.017] [DEBUG] default - create entity
+[2023-05-22T10:23:14.019] [DEBUG] default - create entity
+[2023-05-22T10:23:14.022] [DEBUG] default - create entity
+[2023-05-22T10:23:14.023] [DEBUG] default - create entity
+[2023-05-22T10:23:14.027] [DEBUG] default - create entity
+[2023-05-22T10:23:14.029] [DEBUG] default - create entity
+[2023-05-22T10:23:15.135] [DEBUG] default - Add
+[2023-05-22T10:23:33.985] [DEBUG] default - truncate db
+[2023-05-22T10:23:53.991] [DEBUG] default - truncate db
+[2023-05-22T10:24:14.005] [DEBUG] default - truncate db
+[2023-05-22T10:24:34.007] [DEBUG] default - truncate db
+[2023-05-22T10:24:54.010] [DEBUG] default - truncate db
+[2023-05-22T10:25:17.841] [DEBUG] default - Add
+[2023-05-22T10:25:17.879] [DEBUG] default - not found
+[2023-05-22T10:25:33.104] [DEBUG] default - create entity
+[2023-05-22T10:25:33.114] [DEBUG] default - create entity
+[2023-05-22T10:25:33.116] [DEBUG] default - create entity
+[2023-05-22T10:25:33.118] [DEBUG] default - create entity
+[2023-05-22T10:25:33.120] [DEBUG] default - create entity
+[2023-05-22T10:25:33.121] [DEBUG] default - create entity
+[2023-05-22T10:25:33.124] [DEBUG] default - create entity
+[2023-05-22T10:25:33.126] [DEBUG] default - create entity
+[2023-05-22T10:25:33.129] [DEBUG] default - create entity
+[2023-05-22T10:25:33.131] [DEBUG] default - create entity
+[2023-05-22T10:25:53.090] [DEBUG] default - truncate db
+[2023-05-22T10:26:11.546] [DEBUG] default - Add
+[2023-05-22T10:26:11.571] [DEBUG] default - not found
+[2023-05-22T10:26:13.102] [DEBUG] default - truncate db
+[2023-05-22T10:26:33.112] [DEBUG] default - truncate db
+[2023-05-22T10:26:53.123] [DEBUG] default - truncate db
+[2023-05-22T10:27:13.126] [DEBUG] default - truncate db
+[2023-05-22T10:27:33.131] [DEBUG] default - truncate db
+[2023-05-22T10:27:53.145] [DEBUG] default - truncate db
+[2023-05-22T10:28:13.150] [DEBUG] default - truncate db
+[2023-05-22T10:28:33.154] [DEBUG] default - truncate db
+[2023-05-22T10:28:43.494] [DEBUG] default - Add
+[2023-05-22T10:28:53.166] [DEBUG] default - truncate db
+[2023-05-22T10:29:13.168] [DEBUG] default - truncate db
+[2023-05-22T10:29:33.167] [DEBUG] default - truncate db
+[2023-05-22T10:29:53.171] [DEBUG] default - truncate db
+[2023-05-22T10:30:13.182] [DEBUG] default - truncate db
+[2023-05-22T10:30:33.195] [DEBUG] default - truncate db
+[2023-05-22T10:30:53.205] [DEBUG] default - truncate db
+[2023-05-22T10:31:09.790] [DEBUG] default - Add
+[2023-05-22T10:31:28.894] [DEBUG] default - create entity
+[2023-05-22T10:31:28.898] [DEBUG] default - create entity
+[2023-05-22T10:31:28.899] [DEBUG] default - create entity
+[2023-05-22T10:31:28.900] [DEBUG] default - create entity
+[2023-05-22T10:31:28.902] [DEBUG] default - create entity
+[2023-05-22T10:31:28.904] [DEBUG] default - create entity
+[2023-05-22T10:31:28.905] [DEBUG] default - create entity
+[2023-05-22T10:31:28.906] [DEBUG] default - create entity
+[2023-05-22T10:31:28.908] [DEBUG] default - create entity
+[2023-05-22T10:31:28.909] [DEBUG] default - create entity
+[2023-05-22T10:31:48.908] [DEBUG] default - truncate db
+[2023-05-22T10:31:52.154] [DEBUG] default - not found
+[2023-05-22T10:32:08.916] [DEBUG] default - truncate db
+[2023-05-22T10:32:16.450] [DEBUG] default - Add
+[2023-05-22T10:32:28.932] [DEBUG] default - truncate db
+[2023-05-22T10:32:48.936] [DEBUG] default - truncate db
+[2023-05-22T10:33:21.611] [DEBUG] default - Add
+[2023-05-22T10:33:27.635] [DEBUG] default - Add
+[2023-05-22T10:33:35.292] [DEBUG] default - not found
+[2023-05-22T10:33:35.305] [DEBUG] default - not found
+[2023-05-22T10:33:41.189] [DEBUG] default - create entity
+[2023-05-22T10:33:41.195] [DEBUG] default - create entity
+[2023-05-22T10:33:41.196] [DEBUG] default - create entity
+[2023-05-22T10:33:41.197] [DEBUG] default - create entity
+[2023-05-22T10:33:41.198] [DEBUG] default - create entity
+[2023-05-22T10:33:41.200] [DEBUG] default - create entity
+[2023-05-22T10:33:41.201] [DEBUG] default - create entity
+[2023-05-22T10:33:41.202] [DEBUG] default - create entity
+[2023-05-22T10:33:41.203] [DEBUG] default - create entity
+[2023-05-22T10:33:41.205] [DEBUG] default - create entity
+[2023-05-22T10:33:47.935] [DEBUG] default - Add
+[2023-05-22T10:33:53.432] [DEBUG] default - not found
